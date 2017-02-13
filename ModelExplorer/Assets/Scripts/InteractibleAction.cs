@@ -27,16 +27,8 @@ public class InteractibleAction : MonoBehaviour
 
         instantiatedObjectToTagAlong.SetActive(true);
 
-        /* TODO: DEVELOPER CODING EXERCISE 6.b */
-
-        // 6.b: AddComponent Billboard to instantiatedObjectToTagAlong.
-        // So it's always facing the user as they move.
         instantiatedObjectToTagAlong.AddComponent<Billboard>();
 
-        // 6.b: AddComponent SimpleTagalong to instantiatedObjectToTagAlong.
-        // So it's always following the user as they move.
         instantiatedObjectToTagAlong.AddComponent<SimpleTagalong>();
-
-        // 6.b: Set any public properties you wish to experiment with.
-    }
+   }
 }
