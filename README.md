@@ -1,2 +1,2 @@
-# holoAcademy210
-Hololens development following the 210 tutorial from holoAcademy.
+# holoAcademy
+Hololens development following the tutorials from holoAcademy.
