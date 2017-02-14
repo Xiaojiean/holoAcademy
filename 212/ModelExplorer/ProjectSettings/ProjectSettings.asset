@@ -454,7 +454,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: Microsoft Corporation
   metroCertificateIssuer: Microsoft Corporation
-  metroCertificateNotAfter: 006c3462db6fd301
+  metroCertificateNotAfter: 8074bf2f05a6d301
   metroApplicationDescription: ModelExplorer
   wsaImages: {}
   metroTileShortName: ModelExplorer
