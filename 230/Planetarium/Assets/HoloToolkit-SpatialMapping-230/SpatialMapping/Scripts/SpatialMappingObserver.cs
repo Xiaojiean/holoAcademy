@@ -101,7 +101,6 @@ namespace Academy.HoloToolkit.Unity
         protected override void Awake()
         {
             base.Awake();
-
             ObserverState = ObserverStates.Stopped;
         }
 
